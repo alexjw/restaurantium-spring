@@ -1,5 +1,8 @@
 package org.alexjw.restaurantiumspring;
 
+import org.alexjw.restaurantiumspring.repositories.IngredientRepository;
+import org.alexjw.restaurantiumspring.services.IngredientService;
+import org.alexjw.restaurantiumspring.services.IngredientServiceImpl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
